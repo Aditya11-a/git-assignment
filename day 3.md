@@ -100,16 +100,16 @@ Perform the following in Git Bash and write the exact commands:
 
 | Command     | Purpose                          |
 |-------------|----------------------------------|
-| `pwd`       |                                  |
-| `ls -la`    |                                  |
-| `mkdir`     |                                  |
-| `touch`     |                                  |
-| `cat`       |                                  |
-| `mv`        |                                  |
-| `rm -r`     |                                  |
-| `clear`     |                                  |
-| `whoami`    |                                  |
-| `history`   |                                  |
+| `pwd`       | view current directory.          |
+| `ls -la`    | view detailed list with hidden files |
+| `mkdir`     | make a directory.                |
+| `touch`     | create a file.                   |
+| `cat`       | view a file.                     |
+| `mv`        | move a file or folder.           |
+| `rm -r`     | delete non-empty folder.         |
+| `clear`     | clear the terminal window.       |
+| `whoami`    | show current user.               |
+| `history`   | shows all the command used.      |
 
 2. Write the correct command for the following actions:
    - Create an empty file
