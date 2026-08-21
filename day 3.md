@@ -16,6 +16,7 @@
 5. Give 2 examples of GUI and 2 examples of CLI.
 
 **Submission:** Written answers
+<img width="2298" height="3186" alt="image" src="https://github.com/user-attachments/assets/0bd85092-5136-457e-b004-d870c9fddfbe" />
 
 ---
 
@@ -32,6 +33,7 @@
    - VS Code terminal showing Git Bash is selected
 
 **Submission:** Written answers + Screenshots
+<img width="2359" height="928" alt="IMG_20260821_100404" src="https://github.com/user-attachments/assets/d5c8663d-f31f-465a-a15a-9c92f1b8c9aa" />
 
 ---
 
@@ -59,6 +61,7 @@
    - `ls -la`
 
 **Submission:** List of commands used + short answers
+<img width="2311" height="1499" alt="IMG_20260821_100432" src="https://github.com/user-attachments/assets/a21291ba-c5ea-4df2-9beb-75d9b293c872" />
 
 ---
 
@@ -117,6 +120,7 @@ Perform the following in Git Bash and write the exact commands:
 3. Write **4 key takeaways**
 
 **Submission:** Written answers
+<img width="2213" height="700" alt="IMG_20260821_100458" src="https://github.com/user-attachments/assets/2cc7783c-f592-4e10-8a85-5650cd4bee51" />
 
 ---
 
