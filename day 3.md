@@ -87,6 +87,7 @@ Perform the following in Git Bash and write the exact commands:
 - Why should we be careful while using `rm -rf`?
 
 **Submission:** Commands list + answers
+<img width="1920" height="1045" alt="image" src="https://github.com/user-attachments/assets/65b2b2e8-2ee7-4bfe-bd10-ffd331e0cb93" />
 
 ---
 
