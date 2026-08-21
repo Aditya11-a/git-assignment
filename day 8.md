@@ -79,7 +79,7 @@
 3. Fill in the correct flow:
 
 ```
-______ → Work → ______ → ______ → Switch to main → ______ → Delete branch
+create branch → Work → git add . → git commit -m" "→ Switch to main → merge branch → Delete branch
 ```
 
 4. Explain the difference between:
