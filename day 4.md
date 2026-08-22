@@ -14,6 +14,8 @@
    - `git config --global user.email`
    - `git config --list`
 3. Take a screenshot of the output of `git config --list`.
+<img width="650" height="516" alt="image" src="https://github.com/user-attachments/assets/beba058d-a63b-461a-9725-9dea4a9fb1b4" />
+
 4. Answer:
    - Why do we use the `--global` flag?
    - Do we need to configure name and email for every new project? Why or why not?
