@@ -31,6 +31,7 @@
 4. Which type is Git? Justify your answer in 3–4 lines.
 
 **Submission:** Diagrams + written explanation
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/156dfd4e-2fd7-4cba-9325-53203e6756bc" />
 
 ---
 
