@@ -1,8 +1,3 @@
-
-#  Assignments
-
----
-
 ### Assignments: Clone vs Fork
 
 **Objective:** Clearly understand the difference between Clone and Fork.
@@ -15,6 +10,7 @@
 5. Write one real-life example where Fork is useful.
 
 **Submission:** Written answers
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/e67538a2-1cb7-466c-9eac-1c6121b28d9e" />
 
 ---
 
@@ -32,6 +28,7 @@
 5. Does `git commit` upload code to GitHub? Explain why or why not.
 
 **Submission:** Written answers
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/a7b94f46-b23d-4f64-83fe-d81324ccdad0" />
 
 ---
 
@@ -60,6 +57,7 @@
 - Screenshot of successful commit  
 - Screenshot of successful push  
 - Screenshot of the file on GitHub
+<img width="1053" height="1026" alt="image" src="https://github.com/user-attachments/assets/64e9c479-0eed-41ee-9bde-4383a384f540" />
 
 ---
 
@@ -91,6 +89,7 @@ Remote Repository (GitHub)
 3. What is the use of the `-u` flag in `git push -u origin main`?
 
 **Submission:** Written answers
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/2c1efbaf-66cf-4400-96b6-54e350565988" />
 
 ---
 
@@ -110,4 +109,4 @@ Remote Repository (GitHub)
 
 ---
 
-### Deadline : 22nd August, 2026.
+### Deadline : 23rd August, 2026.
