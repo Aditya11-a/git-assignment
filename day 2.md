@@ -75,6 +75,8 @@
 
 **Submission:** Screenshots + written answers
 <img width="2241" height="649" alt="IMG_20260823_121946" src="https://github.com/user-attachments/assets/52a9ec75-8664-4741-870e-f9c920b4d6de" />
+<img width="1914" height="1043" alt="image" src="https://github.com/user-attachments/assets/77399142-79ce-41aa-b1d4-5f3570d7fd1c" />
+<img width="1920" height="1045" alt="image" src="https://github.com/user-attachments/assets/d24a8ffd-47c9-428d-a7c7-90e75fec134c" />
 
 ---
 
