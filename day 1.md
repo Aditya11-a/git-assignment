@@ -14,6 +14,7 @@
 4. Write 3 benefits of using a VCS in a college project or team project.
 
 **Submission:** Written answers 
+<img width="2276" height="3062" alt="IMG_20260823_113100" src="https://github.com/user-attachments/assets/ff27204e-2cce-44c4-a5b5-b38c89515b8c" />
 
 ---
 
@@ -32,6 +33,8 @@
 
 **Submission:** Diagrams + written explanation
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/156dfd4e-2fd7-4cba-9325-53203e6756bc" />
+<img width="2038" height="3055" alt="IMG_20260823_113143" src="https://github.com/user-attachments/assets/ef685566-d3bb-4262-a17f-6966a5413ca4" />
+<img width="2028" height="470" alt="IMG_20260823_113209" src="https://github.com/user-attachments/assets/3eb4f846-a0f8-44c6-9da2-987930fd5055" />
 
 ---
 
@@ -56,6 +59,7 @@
    - What is the biggest disadvantage of Centralized VCS?
 
 **Submission:** Completed table + answers
+<img width="1626" height="435" alt="IMG_20260823_113642" src="https://github.com/user-attachments/assets/70ecf466-bc85-4ba9-ae11-539c96909a9e" />
 
 ---
 
@@ -73,6 +77,7 @@
 4. Name any 3 platforms that work with Git (example: GitHub).
 
 **Submission:** Written answers
+<img width="1626" height="1376" alt="IMG_20260823_113652" src="https://github.com/user-attachments/assets/cb9136ea-a6cd-4811-895a-7d921bcc1441" />
 
 ---
 
@@ -88,6 +93,7 @@
 4. Write 4 key takeaways you learned from Day 1.
 
 **Submission:** Written answers + diagram
+<img width="2065" height="1182" alt="IMG_20260823_113302" src="https://github.com/user-attachments/assets/49884879-fe7e-4eef-9c9d-6865e47c5cfd" />
 
 ---
 
