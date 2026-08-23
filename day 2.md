@@ -14,6 +14,8 @@
 4. Explain the **Taxi vs Uber/Ola** example in your own words. How does it relate to Git and GitHub?
 
 **Submission:** Written answers
+<img width="2309" height="3123" alt="IMG_20260823_121729" src="https://github.com/user-attachments/assets/61ce037d-80bd-4d9c-9103-2252aa177664" />
+<img width="2183" height="532" alt="IMG_20260823_121755" src="https://github.com/user-attachments/assets/635a19a0-28e3-4d90-bb97-1ce05e48871a" />
 
 ---
 
@@ -29,6 +31,8 @@
 5. Why is **VS Code** the most popular among beginners? Write 4 reasons.
 
 **Submission:** Written answers
+<img width="2262" height="2768" alt="IMG_20260823_121811" src="https://github.com/user-attachments/assets/45620f3c-99b2-47c5-b946-44fed15bdc93" />
+<img width="2341" height="791" alt="IMG_20260823_121847" src="https://github.com/user-attachments/assets/2e88a22e-c139-4185-ad55-791a41079f31" />
 
 ---
 
@@ -48,6 +52,7 @@
 4. Why is having a terminal inside VS Code useful for Git?
 
 **Submission:** Screenshots + written answers
+<img width="2247" height="882" alt="IMG_20260823_121922" src="https://github.com/user-attachments/assets/6ad1cd98-7d04-4598-91c0-b5ba1e516815" />
 
 ---
 
@@ -69,6 +74,7 @@
    - Your GitHub profile (showing the contribution calendar)
 
 **Submission:** Screenshots + written answers
+<img width="2241" height="649" alt="IMG_20260823_121946" src="https://github.com/user-attachments/assets/52a9ec75-8664-4741-870e-f9c920b4d6de" />
 
 ---
 
@@ -91,6 +97,7 @@
 3. Write **4 key takeaways** from Day 2.
 
 **Submission:** Written answers
+<img width="2203" height="776" alt="IMG_20260823_122003" src="https://github.com/user-attachments/assets/b1bb608c-1067-4146-9149-7d9bf0f3b497" />
 
 ---
 
