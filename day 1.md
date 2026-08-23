@@ -44,11 +44,11 @@
 
 | Feature | Local VCS | Centralized VCS | Distributed VCS |
 |---------|-----------|-----------------|-----------------|
-| History stored where? | | | |
-| Collaboration | | | |
-| Works offline? | | | |
-| Single point of failure | | | |
-| Examples | | | |
+| History stored where? |localy |centeral server |on every computer |
+| Collaboration | no|yes |yes |
+| Works offline? |yes |no |yes |
+| Single point of failure |yes |yes |no |
+| Examples |RCS |SVN |GIT |
 
 2. Answer the following:
    - Why is Centralized VCS better than Local VCS?
